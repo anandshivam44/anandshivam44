@@ -37,9 +37,6 @@
 <a href="https://fb.com/anandshivam44" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anandshivam44" height="30" width="40" /></a>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandshivam44&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![Profile views](https://gpvc.arturio.dev/anandshivam44) 
 
 
