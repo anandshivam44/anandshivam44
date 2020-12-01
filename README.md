@@ -8,8 +8,8 @@
 - Undergraduate from [BIT Sindri, Dhanbad](http://bitsindri.ac.in/)
 - Also interested in Web Technologies like React and Bootstrap
 - Loves to watch Web Series
-- My Colleagues are [Anubhaw Sharma](https://github.com/Anubhaw19), [Suraj Mahto](https://github.com/suraj-sloth)
-   We belive, We are Engineers.Our approach is we solve and optimize problems
+- My Colleagues are [Anubhaw Sharma](https://github.com/Anubhaw19), [Suraj Mahto](https://github.com/suraj-sloth).
+   We belive, we are engineers. Our approach to optimize and solve problems
 
 
 <br>
@@ -36,6 +36,12 @@
 <a href="https://linkedin.com/in/anandshivam44" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anandshivam44" height="30" width="40" /></a>
 <a href="https://fb.com/anandshivam44" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anandshivam44" height="30" width="40" /></a>
 </p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandshivam44&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Profile views](https://gpvc.arturio.dev/anandshivam44) 
+
 
 
 
