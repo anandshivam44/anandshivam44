@@ -14,9 +14,9 @@
 
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anandshivam44&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anandshivam44&count_private=true&show_icons=true)](https://github.com/anandshivam44)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandshivam44&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandshivam44&langs_count=6&layout=compact)](https://github.com/anandshivam44)
 
 
 
