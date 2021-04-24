@@ -14,6 +14,8 @@
 
 <br>
 <img align="left" src="ACE.png" width="128" style="margin-right: 25px"/>
+<br>
+
 # I am now Google Cloud Certified Associate Cloud Engineer
 ### Check out my GCP ACE credentials [here](https://www.credential.net/afaad28e-25df-49a8-8c24-b78e445a40b6)
 <br>
