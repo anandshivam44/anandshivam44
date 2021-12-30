@@ -8,7 +8,7 @@
 - Undergraduate from [BIT Sindri, Dhanbad](http://bitsindri.ac.in/)
 - Also interested in Web Technologies like React and Bootstrap
 - Loves to watch Web Series
-- My Colleagues are [Anubhaw Sharma](https://github.com/Anubhaw19), [Suraj Mahto](https://github.com/suraj-sloth).
+- My Colleagues are [Anubhaw Sharma](https://github.com/Anubhaw19), [Suraj Mahto](https://github.com/suraj-sloth) and [Anjani Kumar](https://github.com/anjanik012).
    We belive, we are engineers. Our approach to optimize and solve problems
 
 
