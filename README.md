@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - President at [HnCC](https://github.com/hnccbits)
-- Interested in Android Development,Web Technologies and DevOps
+- Interested in DevOps, DevSecOps and SRE
 - Undergraduate from [BIT Sindri, Dhanbad](http://bitsindri.ac.in/)
 - Also interested in Web Technologies like React and Bootstrap
 - Loves to watch Web Series
